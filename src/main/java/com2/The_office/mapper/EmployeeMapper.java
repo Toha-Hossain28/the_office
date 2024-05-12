@@ -31,5 +31,4 @@ public class EmployeeMapper {
                 dto.getMainSkill()
         );
     }
-
 }
